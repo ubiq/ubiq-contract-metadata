@@ -1,0 +1,30 @@
+{
+  "0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73": {
+    "name": "10grans",
+    "logo": "10Grans.png",
+    "erc20": true,
+    "symbol": "GRANS",
+    "decimals": 18
+  },
+  "0xcf3222b7FDa7a7563b9E1E6C966Bead04AC23c36": {
+    "name": "Escher",
+    "logo": "Escher.svg",
+    "erc20": true,
+    "symbol": "ESCH",
+    "decimals": 18
+  },
+  "0x497E20586F86c35592FF8F65CdE94F296514C387": {
+    "name": "Snarg01",
+    "logo": "Snarg01.png",
+    "erc20": true,
+    "symbol": "SNARG",
+    "decimals": 0
+  },
+  "0x20e3dD746DdF519B23Ffbbb6Da7a5d33eA6349D6": {
+    "name": "Sphere",
+    "logo": "Sphere.png",
+    "erc20": true,
+    "symbol": "SPHR",
+    "decimals": 8
+  }
+}
