@@ -13,6 +13,13 @@
     "symbol": "ESCH",
     "decimals": 18
   },
+  "0x500684CE0D4f04aBeDff3e54fCF8acC5E6CFc4bD": {
+    "name": "GeoCoin",
+    "logo": "GeoCoin.png",
+    "erc20": true,
+    "symbol": "GEO",
+    "decimals": 8
+  },
   "0x497E20586F86c35592FF8F65CdE94F296514C387": {
     "name": "Snarg01",
     "logo": "Snarg01.png",
