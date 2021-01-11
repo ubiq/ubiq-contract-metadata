@@ -20,6 +20,13 @@
     "symbol": "GEO",
     "decimals": 8
   },
+  "0x823803ec07a4f524d5d01f07cda4b7e815b9f005": {
+    "name": "Freak.Finance",
+    "logo": "freakfinance.png",
+    "erc20": true,
+    "symbol": "FREAK",
+    "decimals": 9
+  },
   "0x497E20586F86c35592FF8F65CdE94F296514C387": {
     "name": "Snarg01",
     "logo": "Snarg01.png",
