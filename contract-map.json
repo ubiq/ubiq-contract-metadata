@@ -47,5 +47,12 @@
     "erc20": true,
     "symbol": "SPHR",
     "decimals": 8
+  },
+  "0xcf823eb6f62a30EDB005B91383e2fa364dd753Dc": {
+    "name": "TGE1",
+    "logo": "tge1.png",
+    "erc20": true,
+    "symbol": "TGE1",
+    "decimals": 18
   }
 }
