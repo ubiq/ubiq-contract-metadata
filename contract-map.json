@@ -27,6 +27,13 @@
     "symbol": "FREAK",
     "decimals": 9
   },
+  "0x7d01b0ca9da2293ba0986c8ad39bf54f8f450d52": {
+    "name": "Nothing",
+    "logo": "nothing.png",
+    "erc20": true,
+    "symbol": "NTHG",
+    "decimals": 9
+  },
   "0x497E20586F86c35592FF8F65CdE94F296514C387": {
     "name": "Snarg01",
     "logo": "Snarg01.png",
