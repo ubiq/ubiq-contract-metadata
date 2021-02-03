@@ -1,4 +1,25 @@
 {
+  "0x0319b92eb57929684C27531Da133b0d2BbF691Af": {
+    "name": "Cauli",
+    "logo": "cauli.png",
+    "erc20": true,
+    "symbol": "CAULI",
+    "decimals": 8
+  },
+  "0xe8253295177930b0646a9d8d13A9c1A7B087c4C0": {
+    "name": "Bananas",
+    "logo": "bananas.png",
+    "erc20": true,
+    "symbol": "NANA",
+    "decimals": 8
+  },
+  "0x816CB2245C9fB111a8565f69dD0129aFBd42EbC1": {
+    "name": "HeteroToken",
+    "logo": "heterotoken.png",
+    "erc20": true,
+    "symbol": "HET",
+    "decimals": 18
+  },
   "0x0826180A4c981d5095Cb5c48BB2A098A44cf6f73": {
     "name": "10grans",
     "logo": "10Grans.png",
