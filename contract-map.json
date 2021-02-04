@@ -29,7 +29,7 @@
   },
   "0xcf3222b7FDa7a7563b9E1E6C966Bead04AC23c36": {
     "name": "Escher",
-    "logo": "Escher.svg",
+    "logo": "Escher.png",
     "erc20": true,
     "symbol": "ESCH",
     "decimals": 18
