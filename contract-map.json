@@ -75,5 +75,26 @@
     "erc20": true,
     "symbol": "TGE1",
     "decimals": 18
+  },
+  "0xBd0cdE7FE1480c7178CAcfDCe7b5e913f0765572": {
+    "name": "Vegan",
+    "logo": "vegan.png",
+    "erc20": true,
+    "symbol": "VEGAN",
+    "decimals": 18
+  },
+  "0x402C2C3aceeb52b8654A0631012ceD49cbc9bDc4": {
+    "name": "Sphere Cubed",
+    "logo": "spherecubed.png",
+    "erc20": true,
+    "symbol": "SPHRC",
+    "decimals": 18
+  },
+  "0x8CCa6569739f604F60cD3F5f7260166f712343e4": {
+    "name": "Escudo",
+    "logo": "escudo.png",
+    "erc20": true,
+    "symbol": "PTE",
+    "decimals": 18
   }
 }
