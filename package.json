@@ -1,6 +1,6 @@
 {
   "name": "ubq-contract-metadata",
-  "version": "1.15.4",
+  "version": "1.15.5",
   "description": "A mapping of ubiq contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "scripts": {
