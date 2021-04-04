@@ -1,4 +1,11 @@
 {
+  "0xfb37CD27C4E15A05D0Df7d8a4F22e18cb255Ca21": {
+    "name": "Couscous",
+    "logo": "Couscous.png",
+    "erc20": true,
+    "symbol": "COUS",
+    "decimals": 18
+  },
   "0xBd0cdE7FE1480c7178CAcfDCe7b5e913f0765572": {
     "name": "Vegan",
     "logo": "vegan.png",
